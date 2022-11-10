@@ -1,0 +1,1 @@
+import{a3 as l,m as e,q as r}from"./index.cc005d8f.js";function i(i){const{data:a,fileUrl:f}=l(i,{});return i||f||(null==a?void 0:a.fileUrl)?r("/pages/web/preview",{url:f||(null==a?void 0:a.fileUrl)}):e.failure("文件信息不存在")}export{i as p};
